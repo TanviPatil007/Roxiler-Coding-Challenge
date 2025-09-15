@@ -1,0 +1,21 @@
+/* Golden theme */
+.golden-btn {
+  background-color: #d4af37 !important;
+  border: none !important;
+  color: white !important;
+  font-weight: 600;
+}
+
+.golden-btn:hover {
+  background-color: #b8962e !important;
+}
+
+.golden-card {
+  border: none !important;
+  box-shadow: 0 2px 5px rgba(212, 175, 55, 0.468) !important;
+  border-radius: 5px !important;
+}
+
+.sidebar-dark {
+  background-color: #1c1c1c;
+}
